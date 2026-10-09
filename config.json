@@ -1,1 +1,56 @@
 
+{
+  "schemaVersion": 1,
+  "ads": {
+    "enabled": true,
+    "admob": {
+      "appOpen": "ca-app-pub-3940256099942544/9257395921",
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded": "ca-app-pub-3940256099942544/5224354917",
+      "native": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "levelPlay": {
+      "enabled": false,
+      "appKey": "",
+      "banner": "",
+      "interstitial": "",
+      "rewarded": ""
+    },
+    "frequency": {
+      "interstitialEveryNBreaks": 3,
+      "interstitialCooldownSeconds": 120,
+      "interstitialMaxPerSession": 6,
+      "noInterstitialFirstSeconds": 60,
+      "fullscreenGapSeconds": 45,
+      "appOpenCooldownSeconds": 240,
+      "appOpenMaxPerSession": 3,
+      "appOpenMinBackgroundSeconds": 30,
+      "appOpenOnSplash": true,
+      "appOpenSkipFirstLaunch": true,
+      "nativeEveryMin": 4,
+      "nativeEveryMax": 5,
+      "importGateMin": 4,
+      "importGateMax": 5
+    },
+    "content": {
+      "maxAdContentRating": "PG",
+      "childDirected": false,
+      "underAgeOfConsent": false,
+      "testDeviceIds": [],
+      "forceEeaForTesting": false
+    }
+  },
+  "economy": {
+    "dailyBonus": 5,
+    "rewardedDiamonds": 3,
+    "vipDefaultPrice": 5
+  },
+  "privacyPolicyUrl": "https://pages.flycricket.io/bunzo-mods-and-addon/privacy.html",
+  "theme": {
+    "preset": "emerald",
+    "font": "montserrat",
+    "uiScale": 1.03,
+    "layout": "mosaic"
+  }
+}
