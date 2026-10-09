@@ -11,11 +11,11 @@
       "native": "ca-app-pub-3940256099942544/2247696110"
     },
     "levelPlay": {
-      "enabled": false,
-      "appKey": "",
-      "banner": "",
-      "interstitial": "",
-      "rewarded": ""
+      "enabled": true,
+      "appKey": "289c3b2dd",
+      "banner": "qos3n5zom1d6a2de",
+      "interstitial": "tnuhvqoat809op0v",
+      "rewarded": "8kqkct3w9gkmtn6n"
     },
     "frequency": {
       "interstitialEveryNBreaks": 3,
