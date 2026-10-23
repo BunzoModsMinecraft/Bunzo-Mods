@@ -1,4 +1,3 @@
-
 {
   "schemaVersion": 1,
   "ads": {
@@ -15,10 +14,11 @@
       "appKey": "289c3b2dd",
       "banner": "qos3n5zom1d6a2de",
       "interstitial": "tnuhvqoat809op0v",
-      "rewarded": "8kqkct3w9gkmtn6n"
+      "rewarded": "8kqkct3w9gkmtn6n",
+      "native": "NativeAd"
     },
     "frequency": {
-     "interstitialEveryNBreaks": 2,
+      "interstitialEveryNBreaks": 2,
       "interstitialCooldownSeconds": 20,
       "interstitialMaxPerSession": 50,
       "noInterstitialFirstSeconds": 20,
